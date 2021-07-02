@@ -1,0 +1,1 @@
+MIT Election Data and Science Lab, 2018, "U.S. House 1976–2018", https://doi.org/10.7910/DVN/IG0UN2, Harvard Dataverse, V7, UNF:6:8iuXTceVO5a7EpOwUD5UPw== [fileUNF]; https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IG0UN2
